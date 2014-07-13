@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+  <overlay
+    contact = "olof@macrolet.net"
+    type = "git"
+    src  = "git://repo.macrolet.net/rentiernetz-overlay.git"
+    name = "rentiernetz">
+    <link>http://repo.macrolet.net/gitweb/?p=rentiernetz-overlay.git;a=summary</link>
+    <description>Portage overlay with custom and/or experimental packages</description>
+  </overlay>
+</layman>
